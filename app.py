@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def hello_sium():  # put application's code here
+def hello_moto():  # put application's code here
     return 'Hello World!'
 
 
